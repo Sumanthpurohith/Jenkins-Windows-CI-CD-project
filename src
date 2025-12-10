@@ -1,0 +1,3 @@
+src/
+ ├── MyWebApp/               → ASP.NET Core app source
+ └── MyWebApp.Tests/         → Unit test project (xUnit/NUnit)
