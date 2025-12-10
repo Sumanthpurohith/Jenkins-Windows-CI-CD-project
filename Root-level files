@@ -1,0 +1,17 @@
+These give structure and documentation.
+
+✔ README.md
+
+Explains project overview, prerequisites, Windows-only setup, Jenkins pipeline, deployment steps.
+
+✔ Jenkinsfile
+
+Your complete Declarative pipeline script.
+
+✔ .gitignore
+
+Ignore build folders, bin/obj, publish outputs, logs.
+
+✔ LICENSE (optional but professional)
+
+Choose MIT license unless you want something else.
